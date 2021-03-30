@@ -37,4 +37,16 @@ Appearance-Controllable Human Video Motion Transfer</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/p(19).pdf" style="text-decoration:none;">MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/p(20).pdf" style="text-decoration:none;">MonoPerfCap: Human Performance Capture from Monocular Video</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/p(21).pdf" style="text-decoration:none;">LiveCap:
+Real-time Human Performance Capture from Monocular Video</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/p(22).pdf" style="text-decoration:none;">Performance Capture from Sparse Multi-view Video </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Performance-Capture-Papers/blob/master/p(23).pdf" style="text-decoration:none;">Choosing a real-time performance
+capture system</a></li> 
+ 
+
+
+
+
 </ul>
